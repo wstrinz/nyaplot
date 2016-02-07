@@ -1,0 +1,23 @@
+{
+  "name": "Nyaplotjs",
+  "version": "0.0.0",
+  "description": "JavaScript plotting library",
+  "main": "src/main.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naoki Nishida",
+  "license": "MIT License",
+  "devDependencies": {
+    "babel-cli": "^6.4.5",
+    "babel-plugin-lodash": "^2.0.1",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-es2015-rollup": "^1.1.1",
+    "grunt": "~0.4.4",
+    "grunt-contrib-requirejs": "~0.4.3",
+    "rollup-plugin-babel": "^2.3.9"
+  }
+}
